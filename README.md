@@ -15,9 +15,11 @@
 
 ### よく使う道具
 
-JavaScript / TypeScript / C++ / Python ・ Vue / Astro / React Native ・ Firebase / OpenCV
+JavaScript / TypeScript ・ Astro ・ Firebase ・ OpenCV / C++ ・ Python ・ Vue
 
 ### リンク
 
 - ポートフォリオ — https://ryoo-ma638.github.io/
+- ビール売り子 — https://uriko-v-dome-ryoma.vercel.app/
+- Instagram — https://www.instagram.com/ryoma_v_dome/
 - 連絡先 — osaki638ryoma@gmail.com

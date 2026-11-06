@@ -7,11 +7,12 @@
 ### これまでにつくったもの
 
 - **虫歯アニマルズ** — 圧力センサー付き歯ブラシで動物の歯を磨く体感ゲーム。東京ゲームショウ2024・ゲームマーケット2024秋に出展し、日経クロストレンドにも取り上げられました。企画と3Dモデリングを担当。
-- **[Settlo](https://github.com/ryoo-ma638/Settlo)** — みんなで使える割り勘アプリ。レシートを撮るとAIが店名や金額を自動入力し（1回に5枚まで）、送金の回数が最小になる組み合わせで精算します。支払いは相手の承認で確定するので、もめずに終わらせられるのが狙いです。サークル内ハッカソン「シスハック2026」で企業協賛賞を受賞。技育博2026 Vol.2（2026年9月・虎ノ門ヒルズ）に出展。5人で開発を始め、展示は3人体制。イベント詳細・精算ロジック・データ設計・レシート読み取りを担当。公開版は https://settlo-app.web.app
+- **[Settlo](https://github.com/ryoo-ma638/Settlo)** — 旅行やイベントの立て替えを記録し、誰が誰にいくら払うかを計算する割り勘アプリです。レシートの読み取りと、現金を受け取った人による確認に対応しています。チームでSysHack 2026の企業協賛賞を受賞し、技育博2026 Vol.2に出展しました。私はチームリーダー兼フロントエンド担当で、イベント詳細や精算の仕組みなどを担当しました。[公開デモ](https://settlo-app.web.app/)
+- **[中央製作所の採用サイト制作](https://osaki-ryoma-portfolio.vercel.app/works/chuo-seisakusho/)** — CEEDのWEB班で制作中の共同プロジェクトです。画面構成、文章整理、確認用サイトの実装を担当しています。
 - **[meegri](https://meegri.vercel.app/)** — オンラインの個別通話を本番そっくりに練習できる Web アプリ。生成AI（Gemini API）と音声合成で、キャラクターと自然に会話できます。企画から実装まで一人で。
 - **ドローン点検アプリ** — ある企業から受託した、ドローンの飛行記録を扱う業務アプリ。企画から納品まで担当（受託案件のため詳細は非公開）。
 - **[デスカマー（LiDAR鎌ゲーム）](https://github.com/ryoo-ma638/deathkama_rider_game)** — LiDAR で足の動きを追跡し、鎌型のコントローラを振って遊ぶ設置型アクション。動かない原因をコードの競合まで突き止めて作り直し、GitHub で公開。
-- **スマート傘（研究）** — カメラで雨の降る向きを直接計測する傘。WISS 2026 での発表を目標に研究中。
+- **[雨の向きに合わせて動く傘の研究](https://osaki-ryoma-portfolio.vercel.app/works/wis-umbrella/)** — カメラ映像から雨筋の向きを推定し、傘の傾きを調整する方法を研究しています。保存映像の処理結果に合わせて、傘の1軸機構を動かすところまで確認しました。
 
 ### よく使う道具
 
@@ -19,8 +20,9 @@ JavaScript / TypeScript ・ Astro ・ Firebase ・ OpenCV / C++ ・ Python ・ V
 
 ### リンク
 
-- ポートフォリオ — https://ryoo-ma638.github.io/
-- 稜馬のアトリエ（ポートフォリオ vol.2） — https://ryoma-atelier.vercel.app
+- [現行ポートフォリオ Vol.3](https://osaki-ryoma-portfolio.vercel.app/)
+- 過去のポートフォリオ [Vol.1](https://ryoo-ma638.github.io/vol1/)・[Vol.2](https://ryoma-atelier.vercel.app/)
 - ビール売り子 — https://uriko-v-dome-ryoma.vercel.app/
 - Instagram — https://www.instagram.com/ryoma_v_dome/
 - 連絡先 — osaki638ryoma@gmail.com
+
